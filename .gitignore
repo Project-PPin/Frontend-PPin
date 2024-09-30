@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Production build
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables file
+.env
+
+# MacOS system files
+.DS_Store
+
+# Editor-specific settings
+.vscode/
+
+# Optional npm cache directory
+.npm
+
+# Temporary files
+*.tmp
+*.swp
+
+# Coverage directory used by testing frameworks
+coverage/
